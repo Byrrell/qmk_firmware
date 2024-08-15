@@ -22,6 +22,7 @@
 #define ROTATIONAL_TRANSFORM_ANGLE -35
 
 /* Pointing device configuration. */
+#define CHARYBDIS_MINIMUM_DEFAULT_DPI 250
 
 // Enable use of pointing device on slave split.
 #define SPLIT_POINTING_ENABLE
